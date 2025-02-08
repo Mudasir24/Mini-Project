@@ -1,13 +1,8 @@
 streamlit
 opencv-python
-pickle
-time
 mediapipe
 numpy
 gtts
-io
-re
-os
-pygame
-speech_recognition
+pygame==2.1.0
+speechrecognition
 pyttsx3
