@@ -1,9 +1,13 @@
 streamlit
 opencv-python
+pickle
+time
 mediapipe
 numpy
 gtts
+io
+re
+os
 pygame
-speechrecognition
-pyaudio
+speech_recognition
 pyttsx3
